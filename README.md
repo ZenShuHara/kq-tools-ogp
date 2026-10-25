@@ -19,6 +19,10 @@ Knowledge Quest Tools（https://knowledgequest.jp/tools/）の **OGP 画像（�
 | listfilter.png | プレリサーチ（/listfilter/） |
 | `zenresearch.png` | ZenResearch（/zenresearch/ 全ページ。正本は knowledgequest.jp の zenresearch/ogp.png） |
 
+## 共有用ページ（zenresearch/）
+
+`https://zenshuhara.github.io/kq-tools-ogp/zenresearch/` は Discord などに貼るための共有用ページです。og:/twitter: タグだけを持ち、すぐに https://knowledgequest.jp/zenresearch/ へ移動します（meta refresh 0 ＋ location.replace、移動しないとき用のリンクあり）。サーバー側で Discord のページ取得が届かない（2026-10-25 確認、ログに取得の記録なし）ため。本ページの og: を変えたら、ここも合わせてください。
+
 ## 画像を足す・変えるとき
 
 正本はサイトのリポジトリ（`MF-Conversion` の `tools/sozai/ogp/`、トップは `tools/sozai/ogp-image.png`）にあります。画像を作り直したら、ここにも同じ名前で置いて push し、ページ側の `?v=` を新しくしてください（Discord などは URL ごとにプレビューを覚えるため）。

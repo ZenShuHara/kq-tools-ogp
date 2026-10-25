@@ -17,6 +17,7 @@ Knowledge Quest Tools（https://knowledgequest.jp/tools/）の **OGP 画像（�
 | `news.png` | 更新情報（/tools/news/） |
 | `<ツールのディレクトリ名>.png` | 各ツール（am2mf, ys2mf, ya2mf, me2mf, ra2mf, E2O, refund_analyzer, AmazonOrderRecord, KeepaSyncPro, AmazonAppealCases） |
 | listfilter.png | プレリサーチ（/listfilter/） |
+| `zenresearch.png` | ZenResearch（/zenresearch/ 全ページ。正本は knowledgequest.jp の zenresearch/ogp.png） |
 
 ## 画像を足す・変えるとき
 

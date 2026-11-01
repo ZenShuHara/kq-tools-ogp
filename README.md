@@ -42,7 +42,7 @@
 | `<ツールのディレクトリ名>.png` | /tools/ の各ツール（am2mf, ys2mf, ya2mf, me2mf, ra2mf, E2O, refund_analyzer, AmazonOrderRecord, KeepaSyncPro, AmazonAppealCases）。正本は `MF-Conversion` の `tools/sozai/ogp/`（トップは `tools/sozai/ogp-image.png`） |
 | `listfilter.png` | プレリサーチ（/listfilter/）。正本は `C:\dev\リストフィルタ\web\ogp.png` |
 | `zenresearch.png` | ZenResearch（/zenresearch/ 全ページ）。正本は knowledgequest.jp の zenresearch/ogp.png |
-| `booking.png` | B-LAB オンライン相談の予約（https://b-labs.jp/booking/）。正本は `C:\dev-lab\design\ogpooking.png`（作り直しは `scripts/ogp_booking.py`） |
+| `booking.png` | B-LAB オンライン相談の予約（https://b-labs.jp/booking/）。正本は b-lab リポジトリの `design/ogp/booking.png`（作り直しは `scripts/ogp_booking.py`） |
 
 | 共有用ページ | 移動先 |
 |---|---|
